@@ -1,5 +1,3 @@
-
-
 // Constructor Array ;
 const newArray = new Array();
 console.log(newArray, newArray.length);     // Output: [] 0 ;
@@ -15,7 +13,3 @@ console.log(arr,arr.length);    //Output:  [ 1, 2, 3, 4, 5, 6 ] 6
 // Facotry Array 
 const  arr =  Array(1,2,3,4,5,6);
 console.log(arr,arr.length);    //Output:  [ 1, 2, 3, 4, 5, 6 ] 6
-
-
-
-//  Constuctor-and-factory-array.js
